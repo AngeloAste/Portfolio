@@ -51,16 +51,12 @@ const Project = () => {
               The Judicial Forcing Application is a platform developed for Banco Santander Chile, designed to streamline the process of sending clients to Judicial Collection, allowing for efficient client assignment by automating and simplifying the approval and tracking process for overdue clients.
               </p>
               <div className="techStack">
-                <button>Nextjs</button>
-                <button>MongoDB</button>
-                <button>TailwindCss</button>
+                <button>React Js</button>
+                <button>SQL Server</button>
+                <button>.NET</button>
               </div>
               <div className="btnProjects">
-                <button className="btnP">
-                  <a href="https://github.com/">
-                    <i class="bi bi-github"></i> GitHub
-                  </a>
-                </button>
+ 
               </div>
             </div>
 
@@ -74,16 +70,12 @@ const Project = () => {
               Win Win is a platform developed for Banco Santander Chile, designed to track and evaluate the performance of recovery executives by measuring key indicators such as client management, recovered amounts, and accumulated points. It provides a structured view of different credit categories, including consumer loans, mortgages, and renegotiations, allowing for real-time performance assessment and incentive calculation.
               </p>
               <div className="techStack">
-                <button>Nextjs</button>
-                <button>MongoDB</button>
-                <button>TailwindCss</button>
+                <button>React js</button>
+                <button>SQL Server</button>
+                <button>.NET</button>
               </div>
               <div className="btnProjects">
-                <button className="btnP">
-                  <a href="https://github.com/">
-                    <i class="bi bi-github"></i> GitHub
-                  </a>
-                </button>
+ 
               </div>
             </div>
  
