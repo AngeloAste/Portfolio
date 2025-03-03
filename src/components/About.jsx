@@ -37,6 +37,7 @@ const About = () => {
             <button className="btn btn-dark"><img style={{height:'20px',paddingRight:'10px'}}  src={oracle}/>Oracle</button>
             <button className="btn btn-dark"><img style={{height:'20px',paddingRight:'10px'}}  src={bootstrap}/>Bootstrap</button>
         </div>
+        <br/>
     </div>
 )}
 
